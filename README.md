@@ -1,4 +1,4 @@
-
+I guess it takes more than a Google Colab and CelebA dataset to train a decent diffusion model :(
 
 
 <p>
